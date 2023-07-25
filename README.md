@@ -14,7 +14,7 @@
 **🛠️ Languages and Tools:**
 <p align="left" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="50" height="50" />
-<img src="https://icongr.am/devicon/express-original.svg?size=50&color=ffffff" alt="Express.js" width="50" height="50" />
+<img src="https://icongr.am/devicon/express-original.svg?size=50&color=aaaaaa" alt="Express.js" width="50" height="50" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" />
 
