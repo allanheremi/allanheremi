@@ -1,8 +1,8 @@
 # Nice to see you 👋 <br/>
-**👂 About Me: </br>**
-•🔭 I’m a Full-stack web developer.<br>
-•🔥 My main superpowers are Javascript/Typescript.<br>
-•⚡ In my free time, I like to read about design patterns and blockchain innovations.
+** About Me: </br>**
+• I’m a Full-stack web developer.<br>
+• My main superpowers are Javascript/Typescript.<br>
+• In my free time, I like to read about design patterns and blockchain innovations.
 
 
 **📫 How to reach me:**  <br/> <a href="https://www.linkedin.com/in/allanheremi/" style="display: inline-block; vertical-align: middle;"><img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="LinkedIn" width="158" height="46" style="margin-right: 10px;"></a>
