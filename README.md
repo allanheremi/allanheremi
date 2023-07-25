@@ -1,5 +1,5 @@
 # Nice to see you 👋 <br/>
-** About Me: </br>**
+* About Me: </br> *
 • I’m a Full-stack web developer.<br>
 • My main superpowers are Javascript/Typescript.<br>
 • In my free time, I like to read about design patterns and blockchain innovations.
