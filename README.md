@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="Git" width="50" height="50" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" alt="Solidity" width="50" height="50" />
-
+<img src="https://cryptologos.cc/logos/chainlink-link-logo.png" alt="Chainlink" width="50" height="50" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" width="50" height="50" />
 
