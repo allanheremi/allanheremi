@@ -14,26 +14,17 @@
 **🛠️ Languages and Tools:**
 <p align="left" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" alt="MongoDB" width="50" height="50" />
-<img src="https://icongr.am/devicon/express-original.svg?size=50&color=aaaaaa" alt="Express.js" width="50" height="50" />
-
+  <img src="https://icongr.am/devicon/express-original.svg?size=50&color=aaaaaa" alt="Express.js" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node.js" width="50" height="50" />
   <img src="https://seeklogo.com/images/B/bun-logo-A876328A1F-seeklogo.com.png" alt="Bun" width="50" height="50"/>
-
+  <img src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" alt="Next" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="Git" width="50" height="50" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" alt="Solidity" width="50" height="50" />
-<img src="https://cryptologos.cc/logos/chainlink-link-logo.png" alt="Chainlink" width="50" height="50" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" width="50" height="50" />
-
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-plain.svg" alt="Solidity" width="50" height="50" />
+  <img src="https://cryptologos.cc/logos/chainlink-link-logo.png" alt="Chainlink" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
-          
-
 </p>
 
 
