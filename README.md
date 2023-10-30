@@ -2,7 +2,7 @@
 ## About Me: </br>
 • I’m a Full-stack web developer.<br>
 • My main superpowers are Javascript/Typescript.<br>
-• In my free time, I like to read about design patterns and web3 security.
+• In my free time, I like to read about blockchain innovations and web3 security.
 
 
 **📫 How to reach me:**  <br/> <a target="_blank" href="https://www.linkedin.com/in/allanheremi/" style="display: inline-block; vertical-align: middle;"><img src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" alt="LinkedIn" width="158" height="46" style="margin-right: 10px;"></a>
